@@ -78,7 +78,7 @@ export default function Gallery() {
     <Card variant="outlined" sx={{ maxWidth: 600, minHeight: 400}}>
       <CardHeader
         title="SOFTWARE DEVELOPERS"
-        subheader="Juan Dela Cruz - C-PEITEL3"
+        subheader="Calvin Jared Quiambao - C-PEITEL3"
       />
       <CardActions disableSpacing>
         <Stack direction="row" spacing={2}>
